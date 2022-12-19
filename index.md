@@ -49,3 +49,15 @@ xxxx
 xxxx
 
 # 4. Machine Learning Model for Movie Success Prediction
+
+![ava](/assets/img/avater.png)
+
+xxxx
+
+![james](/assets/img/james.png)
+
+xxxx
+
+![sam](/assets/img/sam.png)
+
+![zoe](/assets/img/zoe.jpg)
