@@ -3,12 +3,13 @@
 
 For this project, we would like to discover the significant factors that contribute to the general success of a movie. We will be looking at the relationship between the gross box office/revenue and features like movie genre, Oscars nominations/award, reviews, soundtrack ratings, and trailer popularity.
 
-The data analysis and machie learning were based on the following datasets: 
-          Oscars data, ["_The Oscar Award, 1927 - 2020_" ](https://www.kaggle.com/datasets/unanimad/the-oscar-award).
+The data analysis and machie learning were based on the following datasets:  
+
+Oscars data, ["_The Oscar Award, 1927 - 2020_" ](https://www.kaggle.com/datasets/unanimad/the-oscar-award).
           
-          YouTube trailers, ["_MovieLens 20M_"](https://grouplens.org/datasets/movielens/20m-youtube/).
+YouTube trailers, ["_MovieLens 20M_"](https://grouplens.org/datasets/movielens/20m-youtube/).
           
-          scraped Movie soundtrack data, ["_MOVIE WAVE_"](http://www.movie-wave.net/reviews-by-title/).
+scraped Movie soundtrack data, ["_MOVIE WAVE_"](http://www.movie-wave.net/reviews-by-title/).
 
 
 # 1. What Is The Connection Between Gross Revenue and Oscar Nominatons?
