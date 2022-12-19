@@ -20,6 +20,8 @@ For examples of how to use markdown to style text, see this [this page](./anothe
 
 This section will show examples of embedding interactive charts produced using [Altair](https://altair-viz.github.io) and [Hvplot](https://hvplot.pyviz.org/).
 
+![nomination vs gross](/assets/img/Nominationsvs.Total Growss.png)
+
 # 2. How does Trailer Popularity Affect Movie Success?
 
 Below is a chart of the incidence of measles since 1928 for the 50 US states.
