@@ -14,57 +14,49 @@ folium-loader:
 For this project, we would like to discover the significant factors that contribute to the general success of a movie. We will be looking at the relationship between the gross box office/revenue and features like movie genre, Oscars nominations/award, reviews, soundtrack ratings, and trailer popularity. 
 
 
-For examples of how to use markdown to style text, see this [this page](./another-page.html).
-
 # 1. What Is The Connection Between Gross Revenue and Oscar Nominatons?
 
 This section will show examples of embedding interactive charts produced using [Altair](https://altair-viz.github.io) and [Hvplot](https://hvplot.pyviz.org/).
 
 ![nomination vs gross](/assets/img/Nominationsvs.Total Gross.png)
 
+xxx
+
+![revenue vs genre](/assets/img/genre-gross.png)
+
+xxx
+
+![oscar vs genre](/assets/img/genre-oscar.png)
+
+xxx
+
+
+
+
 # 2. How does Trailer Popularity Affect Movie Success?
 
-Below is a chart of the incidence of measles since 1928 for the 50 US states.
 
-<div id="altair-chart-1"></div>
+![budget vs invest](/assets/img/invest-budget.png)
 
-This was produced using Altair and embedded in this static web page. Note that you can also display Python code on this page:
+xxx
 
-```python
-import altair as alt
-alt.renderers.enable('notebook')
-```
+![trailer vs revenue](/assets/img/grossreve-trailer.png)
 
-## HvPlot Example
+xxx
 
-Lastly, the measles incidence produced using the HvPlot package:
-
-<div id="hv-chart-1"></div>
-
-## Notes
-
-- See the [lecture 13A slides](https://musa-550-fall-2022.github.io/slideslecture-13A.html) for the code that produced these plots.
-
-**Important: When embedding charts, you will likely need to adjust the width/height of the charts before embedding them in the page so they fit nicely when embedded.**
 
 # 3. Do Music Scores Contribute to Movie Success?
 
-This post will show examples of embedding interactive maps produced using [Folium](https://github.com/python-visualization/folium).
+![music vs imdb](/assets/img/imdb-music.png)
 
-## OSMnx and Street Networks
+xxx
 
-The shortest route between the Art Museum and the Liberty Bell:
+![composer vs rating](/assets/img/composer-rate.png)
 
-<div id="folium-chart-1"></div>
+xxx
 
-<br/>
+![ROI vs genere](/assets/img/roi-genre.png)
 
-## Percentage of Households without Internet
-
-The percentage of households without internet by county:
-
-<div id="folium-chart-2"></div>
-
-See the [lecture 9B slides](https://musa-550-fall-2022.github.io/slides/lecture-9B.html) and the [lecture 10A slides](https://musa-550-fall-2022.github.io/slides/lecture-10A.html) for the code that produced these plots.
+xxx
 
 # 4. Machine Learning Model for Movie Success Prediction
