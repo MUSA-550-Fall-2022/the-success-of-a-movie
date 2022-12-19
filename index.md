@@ -38,14 +38,14 @@ xxx
 
 ![music vs imdb](/assets/img/imdb-music.png)
 
-xxx
+xxxx
 
 ![composer vs rating](/assets/img/composer-rate.png)
 
-xxx
+xxxx
 
 ![ROI vs genere](/assets/img/roi-genre.png)
 
-xxx
+xxxx
 
 # 4. Machine Learning Model for Movie Success Prediction
