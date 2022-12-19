@@ -54,10 +54,12 @@ xxxx
 
 xxxx
 
-![james](/assets/img/james.png )
 
-<img src="/assets/img/james.png" width=300 height=150>
+<img src="/assets/img/james.png" width=350 height=200>
+xxx
 
-![sam](/assets/img/sam.png)
 
-![zoe](/assets/img/zoe.jpg )
+<img src="/assets/img/sam.png" width=350 height=200>
+
+<img src="/assets/img/zoe.jpg" width=350 height=200>
+xxx
