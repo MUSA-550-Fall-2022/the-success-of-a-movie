@@ -6,7 +6,6 @@ For this project, we would like to discover the significant factors that contrib
 
 # 1. What Is The Connection Between Gross Revenue and Oscar Nominatons?
 
-This section will show examples of embedding interactive charts produced using [Altair](https://altair-viz.github.io) and [Hvplot](https://hvplot.pyviz.org/).
 
 ![nomination vs gross](/assets/img/Nominationsvs.Total Gross.png)
 
