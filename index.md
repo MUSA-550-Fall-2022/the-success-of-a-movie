@@ -42,10 +42,12 @@ In conclusion, we found out that dramas and comedies perform the best in terms o
 
 Before every movie is in theaters, there will be multiple versions of trailers released on social media and streaming platforms. The function of a trailer is to promote the film and marketing campaign. In this section, we did an exploratory analysis the significance of movie trailers on gross revenue and return on investment. 
 
-After cleansing and wrangling the scraped data,   
+After cleansing and wrangling the scraped data, we observed many well-known names on our trailer views and return on investment dataframe such as "The Dark Knight", "Finding Nemo", "Harry Potter and the Goblet of Fire". Moreover, "The Hobbit: The Battle of the Five Armies" appeared on both of the top trailer views and movie gross revenue lists. 
+
+
 ![budget vs invest](/assets/img/invest-budget.png)
 
-xxx
+The Production Budget vs. Return on Investment plot shows there is a positive correlation, which indicates for expensive production movies, the film is more likely to return high profit. However, there are a handful exceptions that even low budget films return huge gross. For example, "Deep Throat", "Facing the Giants", and "The Devil Inside". Therefore, there is much more analysis to do to explain these phenomena.
 
 ![trailer vs revenue](/assets/img/grossreve-trailer.png)
 
