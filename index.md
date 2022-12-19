@@ -50,8 +50,7 @@ xxxx
 
 # 4. Machine Learning Model for Movie Success Prediction
 
-![ava](/assets/img/avater.png)
-
+<img src="assets/img/avater.png" width=600 height=450>
 xxxx
 
 
@@ -61,5 +60,5 @@ xxx
 
 <img src="/assets/img/sam2.png" width=350 height=200>
 
-<img src="/assets/img/zoe2.jpg" width=350 height=200>
+<img src="/assets/img/zoe2.png" width=350 height=200>
 xxx
