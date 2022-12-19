@@ -1,8 +1,8 @@
-title: MUSA 550
-logo: /assets/img/logo.png
-description: Geospatial Data Science in Python.
+title: Discover The Significant Factors That Contribute The Success Of A Movie
+logo: /assets/img/awards.png
+description: Create by Yuhao Sun, Yu Wang.
 show_downloads: false
-repository: MUSA-550-Fall-2021/github-pages-single-page-starter
+repository: https://github.com/MUSA-550-Fall-2022/the-success-of-a-movie
 google_analytics:
 remote_theme: pages-themes/minimal
 plugins:
