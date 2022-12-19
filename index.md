@@ -50,7 +50,7 @@ xxxx
 
 # 4. Machine Learning Model for Movie Success Prediction
 
-<img src="assets/img/avater.png" width=600 height=450>
+<img src="assets/img/avater.png" width=670 height=450>
 xxxx
 
 
