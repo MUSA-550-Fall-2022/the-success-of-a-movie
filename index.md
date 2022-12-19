@@ -7,7 +7,7 @@ The data analysis and machie learning were based on the following datasets:
 
 Oscars data, ["_The Oscar Award, 1927 - 2020_" ](https://www.kaggle.com/datasets/unanimad/the-oscar-award).
           
-YouTube trailers, ["_MovieLens 20M_"](https://grouplens.org/datasets/movielens/20m-youtube/).
+YouTube trailers, ["_MovieLens 20M_"](https://grouplens.org/datasets/movielens/20m-youtube/) and scraped from [_YouTube_](https://www.youtube.com/watch?v={})
           
 scraped Movie soundtrack data from ["_MOVIE WAVE_"](http://www.movie-wave.net/reviews-by-title/).
 
@@ -36,9 +36,13 @@ The Oscar Nominations plot shows Oscar nomination count, which is summed and gro
 ### Conclusion:
 In conclusion, we found out that dramas and comedies perform the best in terms of movie success. It is also worth to mention that drama films also received the highest number of Oscar nominations. In the machine learning section, we will inlcude genere as one of the predictors in our model based on the large correlation between drama and success of a movie.
 
+
+
 # 2. How does Trailer Popularity Affect Movie Success?
 
+Before every movie is in theaters, there will be multiple versions of trailers released on social media and streaming platforms. The function of a trailer is to promote the film and marketing campaign. In this section, we did an exploratory analysis the significance of movie trailers on gross revenue and return on investment. 
 
+After cleansing and wrangling the scraped data,   
 ![budget vs invest](/assets/img/invest-budget.png)
 
 xxx
