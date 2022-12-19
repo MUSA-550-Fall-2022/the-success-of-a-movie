@@ -54,10 +54,10 @@ xxxx
 
 xxxx
 
-![james](/assets/img/james.png)
+![james](/assets/img/james.png width="200" height="400")
 
 xxxx
 
-![sam](/assets/img/sam.png)
+![sam](/assets/img/sam.png width="200" height="400")
 
-![zoe](/assets/img/zoe.jpg)
+![zoe](/assets/img/zoe.jpg width="200" height="400")
