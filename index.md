@@ -25,14 +25,16 @@ In order to test our assumption, we searched for movies that have most Oscar nom
 
 ![revenue vs genre](/assets/img/genre-gross.png)
 
+After we combined the domestic and abroad gross revenue, the result showed that drama films are on the top of our list and the revenue generated is almost three times more than the comedy movies, which is the second on our list. 
 
+The result was reasonable, there can be a lot of complex storytelling with a lot of depth in drama films. No doubt that many people across the world would be attached to the movie and laugh, cry, think throughout the movie. 
 
 ![oscar vs genre](/assets/img/genre-oscar.png)
 
-xxx
+The Oscar Nominations plot shows Oscar nomination count, which is summed and grouped by genre. The three genres from the data with the highest number of Oscar nominations are Drama, Documentary, and Comedy. This suggests that films falling into these three genres tend to get nominated the most for Oscar awards. 
 
-
-
+### Conclusion:
+In conclusion, we found out that dramas and comedies perform the best in terms of movie success. It is also worth to mention that drama films also received the highest number of Oscar nominations. In the machine learning section, we will inlcude genere as one of the predictors in our model based on the large correlation between drama and success of a movie.
 
 # 2. How does Trailer Popularity Affect Movie Success?
 
