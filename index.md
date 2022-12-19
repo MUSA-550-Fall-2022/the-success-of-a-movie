@@ -59,7 +59,7 @@ xxxx
 xxx
 
 
-<img src="/assets/img/sam.png" width=350 height=200>
+<img src="/assets/img/sam2.png" width=350 height=200>
 
-<img src="/assets/img/zoe.jpg" width=350 height=200>
+<img src="/assets/img/zoe2.jpg" width=350 height=200>
 xxx
