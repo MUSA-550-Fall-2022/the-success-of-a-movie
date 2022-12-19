@@ -9,19 +9,23 @@ Oscars data, ["_The Oscar Award, 1927 - 2020_" ](https://www.kaggle.com/datasets
           
 YouTube trailers, ["_MovieLens 20M_"](https://grouplens.org/datasets/movielens/20m-youtube/).
           
-scraped Movie soundtrack data, ["_MOVIE WAVE_"](http://www.movie-wave.net/reviews-by-title/).
+scraped Movie soundtrack data from ["_MOVIE WAVE_"](http://www.movie-wave.net/reviews-by-title/).
 
 
-# 1. What Is The Connection Between Gross Revenue and Oscar Nominatons?
+# 1. Discover Which Film Genre Is Most Likely To Receive The Honor?
 
+Every January, countless of movie enthusiasts will be thrilled to find out which movie will receive the Oscars Academy Award, the highest honor in filmmaking! 
+Based on our analysis, the number of awards nominations is correlated with the gross revenue. Consequently, we assume that the higher the gross revenue of a movie is, the more likely it is be a great film. 
 
 ![nomination vs gross](/assets/img/Nominationsvs.Total Gross.png)
 
-xxx
+
+
+In order to test our assumption, we searched for movies that have most Oscar nominations and movies that made remarkable gross revenue across the world. Then, We collected the genre types of these movies to get help us to develope a better answer.     
 
 ![revenue vs genre](/assets/img/genre-gross.png)
 
-xxx
+
 
 ![oscar vs genre](/assets/img/genre-oscar.png)
 
