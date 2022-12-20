@@ -113,19 +113,33 @@ We were not satified with the result, and we developed another SGD classifier mo
 
 <img src="assets/img/sdg.png" width=430 height=350>
 
+SGD classifier returned the following accuracy, precision, and f1 scores: 0.65765, 0.68569, 0.75386.
 
+
+We trained a Random Foroest classifier also to find out which method returns better test result. The parameters used for the Random Forest model were the follow: N estimators = 200, random state = 42.  
+
+<img src="assets/img/rf.png" width=430 height=350>
+
+Random Forest Classifier returned the following accuracy, precision, and f1 scores: 0.62876, 0.62816, 0.77103.
+
+
+
+
+
+### Future Movie Prediciton
+
+Since Random Forest gives us better F1 score, we'll use Random Forest to do prediciton.
 
 By the time this model was developed, "Avatar: The Way of Water" was just released, and we applied our model to predict whether the movie is going to be a huge success for James Cameron, and the stars Sam Worthington, Zoe Saldana. 
 
 <img src="assets/img/avater.png" width=670 height=450>
-xxxx
 
 
-<img src="/assets/img/james.png" width=360 height=220>
-xxx
+
+we entered the following information of the new Avater movie into our model: rating = PG-13, genre = action, company = 20th century studios, director = James Cameron, star1 = Sam Worthington, star2 = Zoe Saldana, released month = 12, released day of week = Friday.
+
+<img src="assets/img/f1.png" width=430 height=350>
+<img src="assets/img/f2.png" width=430 height=350>
 
 
-<img src="/assets/img/sam2.png" width=360 height=220>
-
-<img src="/assets/img/zoe2.png" width=360 height=220>
-xxxxx
+The result returned by our model was that the new Avatar movie is going to be a huge success. 
