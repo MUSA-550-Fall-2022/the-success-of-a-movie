@@ -14,6 +14,7 @@ scraped Movie soundtrack data from ["_MOVIE WAVE_"](http://www.movie-wave.net/re
 
 # 1. Discover Which Film Genre Is Most Likely To Receive The Honor?
 
+
 Every January, countless of movie enthusiasts will be thrilled to find out which movie will receive the Oscars Academy Award, the highest honor in filmmaking! 
 Based on our analysis, the number of awards nominations is correlated with the gross revenue. Consequently, we assume that the higher the gross revenue of a movie is, the more likely it is be a great film. 
 
@@ -38,7 +39,10 @@ In conclusion, we found out that dramas and comedies perform the best in terms o
 
 
 
+
+
 # 2. How does Trailer Popularity Affect Movie Success?
+
 
 Before every movie is in theaters, there will be multiple versions of trailers released on social media and streaming platforms. The function of a trailer is to promote the film and marketing campaign. In this section, we did an exploratory analysis the significance of movie trailers on gross revenue and return on investment. 
 
@@ -58,7 +62,15 @@ Another exploratory finding we observed is the connection between trailer views 
 Therefore, by analyzing trailer views data scraped from YouTube, the result of our analysis valids the idea that movie trailers play a significant role on promting film and marketing campaign.  
 
 
+
+
+
 # 3. Do Music Scores Contribute to Movie Success?
+
+
+Music has always been an important part of almost every aspect of life, and music can make people laugh, make people cry, elicit emotions. We wanted to find out whether music is still significant in film industry through analyzing the data we found from Movie wave, IMDB, and TMDB.
+
+
 
 ![music vs imdb](/assets/img/imdb-music.png)
 
