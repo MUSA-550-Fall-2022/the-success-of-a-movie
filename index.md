@@ -68,21 +68,30 @@ Therefore, by analyzing trailer views data scraped from YouTube, the result of o
 # 3. Do Music Scores Contribute to Movie Success?
 
 
-Music has always been an important part of almost every aspect of life, and music can make people laugh, make people cry, elicit emotions. We wanted to find out whether music is still significant in film industry through analyzing the data we found from Movie wave, IMDB, and TMDB.
+Music has always been an important part of almost every aspect of life, and music can make people laugh, make people cry, elicit emotions. We wanted to find out whether music is also significant in film industry through analyzing the data we found from Movie wave, IMDB, and TMDB.
 
 
 
 ![music vs imdb](/assets/img/imdb-music.png)
 
-xxxx
+After merging the three datasets and removing outliers, we plot the scatter plot of music rating and IMDB movie score columns. From the scatter plot, we observed that there is a weak positive correlation between music ratings and the imdb movie ratings, which indicates that if a movie has a higher music rating, it is slightly more likely to recieve a higher movie rating from IMDB. We were surprised by this weak correlation, and we assume this is caused by the different rating schema between music and IMDB.  
 
 ![composer vs rating](/assets/img/composer-rate.png)
 
-xxxx
+When we were working on the music dataset, we found out the importance of music composers on film production. These people create musical score that accompanies a film. Generally, there are three types of music: diegetic, non-diegetic music, and song. By grouping the composers name and average rating, we found the top 25 composers. Adam Shaw who is known for "First Light", "Clockwork Man", and "For Life" is the top composer associated with highest average movie ratings.    
 
 ![ROI vs genere](/assets/img/roi-genre.png)
 
-xxxx
+By doing further analysis on the average return of interest, we discovered that musical films make the highest return of interest among all the genres. 
+
+
+
+### Conclusion:
+In this section we discovered the significance of music and composers in film industry, and we believe that music must be a strong factor to answer the question that what is the recipe for a successful movie.
+
+
+
+
 
 # 4. Machine Learning Model for Movie Success Prediction
 
