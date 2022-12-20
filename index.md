@@ -99,11 +99,11 @@ In this section we discovered the significance of music and composers in film in
 xxxx
 
 
-<img src="/assets/img/james.png" width=350 height=200>
+<img src="/assets/img/james.png" width=360 height=220>
 xxx
 
 
-<img src="/assets/img/sam2.png" width=350 height=200>
+<img src="/assets/img/sam2.png" width=360 height=220>
 
-<img src="/assets/img/zoe2.png" width=350 height=200>
+<img src="/assets/img/zoe2.png" width=360 height=220>
 xxxxx
