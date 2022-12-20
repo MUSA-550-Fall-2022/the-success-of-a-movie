@@ -98,13 +98,18 @@ In this section we discovered the significance of music and composers in film in
 Finally, after learning the significant predictors associated with the success of a movie, it is time for developing a machine learning model that can help us predict if a specific movie is going to be successful by evaluating the following factors: rating, genre, director popularity, star popularity, release time, and runtime. 
 
 
-### Model Developing process 
+### Model Developing process： 
 The necessary dataset used to train and test our model is scraped from the IMDB website using BeautifulSoup package. The data we collected from IMDB were popular directors, actors, actress.
 
 The next step in the model developing process was using label encoder and one-hot encoding to convert and assign the variables in our dataset into categorical and non-categorical. 
 
 Before we fit the model, the dataset was split into training and testng sets for testing accuracy purposes. We took 70% of observations in our dataset into training set and 30% as the testing set. 
 
+
+A Lasso regression was fitted using the following parameter cv=5, random-state=0. The r suqred and means squared error for Lasso regression were -0.08034182617679186 and 5.777497871037051.
+
+We were not satified with the result, and we developed another SGD classifier model which implements regularized logistic regression with stochastic gradient descent learning. 
+<img src="assets/img/sdg.png" width=430 height=350>
 
 
 
