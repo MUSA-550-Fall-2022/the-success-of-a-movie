@@ -51,7 +51,11 @@ The Production Budget vs. Return on Investment plot shows there is a positive co
 
 ![trailer vs revenue](/assets/img/grossreve-trailer.png)
 
-xxx
+Another exploratory finding we observed is the connection between trailer views and gross revenue.
+
+
+### Conclusion:
+Therefore, by analyzing trailer views data scraped from YouTube, the result of our analysis valids the idea that movie trailers play a significant role on promting film and marketing campaign.  
 
 
 # 3. Do Music Scores Contribute to Movie Success?
