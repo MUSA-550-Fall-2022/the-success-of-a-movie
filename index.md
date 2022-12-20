@@ -109,6 +109,8 @@ Before we fit the model, the dataset was split into training and testng sets for
 A Lasso regression was fitted using the following parameter cv=5, random-state=0. The r suqred and means squared error for Lasso regression were -0.08034182617679186 and 5.777497871037051.
 
 We were not satified with the result, and we developed another SGD classifier model which implements regularized logistic regression with stochastic gradient descent learning. 
+
+
 <img src="assets/img/sdg.png" width=430 height=350>
 
 
